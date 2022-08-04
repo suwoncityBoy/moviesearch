@@ -3,6 +3,7 @@ import Home from './Home.vue'
 import Movie from './Movie.vue'
 import About from './About.vue'
 import NotFound from './NotFound.vue'
+import Empty from './Empty.vue'
 
 export default createRouter({
   // Hash 모드
@@ -22,10 +23,10 @@ export default createRouter({
       path: '/movie/:id',
       component: Movie
     },
-    // {
-    //   path: '/movie',
-    //   component: Movie
-    // },
+    {
+      path: '/movie',
+      component: Empty
+    },
     {
       path: '/about',   // about 페이지로 이동
       component: About     // 해당 페이지 컴포넌트 실행

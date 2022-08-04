@@ -17,6 +17,7 @@
         :z-index="9"
         :fixed="true" />
     </template>
+
     <div
       v-else
       class="movie-details">
