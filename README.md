@@ -1,5 +1,5 @@
 # Vue3 Movie Website
-Vue3와 OMDBb API를 사용해서 구현한 영화 검색 사이트입니다.</br>
+Vue3와 OMDb API를 사용해서 구현한 영화 검색 사이트입니다.</br>
 </br>
 <strong>배포주소 :</strong> <a href="https://sweet-peony-95969e.netlify.app" title="웹사이트로 이동" target="_blank">portfolio</a>
 
