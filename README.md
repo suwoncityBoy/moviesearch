@@ -1,12 +1,8 @@
 # Vue3 Movie Website
-Vue3와 OMDb API를 사용해서 구현한 영화 검색 사이트입니다.</br>
+Vue3와 OMDb API를 사용해서 구현한 영화 검색 사이트입니다.</br> 배포는 Netlify로 배포하였습니다.
 </br>
+
 <strong>배포주소 :</strong> <a href="https://vue-moviesearch.netlify.app" title="웹사이트로 이동" target="_blank">portfolio</a>
-
-</br>
-
-# 개발기간 
-- 2022년 07월 26일 ~ 2022년 8월 3일
 
 </br>
 
